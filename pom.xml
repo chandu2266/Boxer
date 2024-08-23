@@ -52,7 +52,7 @@
   </dependencies>
 
   <build>
-    <finalName>Bristleback web application</finalName>
+    <finalName>Boxer</finalName>
     <pluginManagement>
       <plugins>
         <plugin>
@@ -75,7 +75,7 @@
           <version>8.1.10.v20130312</version>
         </plugin>
                <plugin>
-          <groupId>org.sonarsource.scanner.maven</groupId>
+          <groupId>vamsi.maven.com</groupId>
           <artifactId>sonar-maven-plugin</artifactId>
           <version>4.0.0.4121</version>
         </plugin>
